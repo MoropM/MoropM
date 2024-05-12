@@ -44,7 +44,6 @@ Habilidades:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoroPm&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/MoroPm)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MoroPm)  
 
