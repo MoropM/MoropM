@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+https://readme.so/es/editor
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
@@ -19,7 +21,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 Soy Ingeniero de software, actualmente trabajando como desarrollador fullstack, con 5 años de experiencia laboralmente.
 Las tecnologías con las que actualmente estoy trabajando son: el framework Laravel, Joomla, JS, HTML5, CSS3 y MySQL.
 
-Me encanta seguir aprendiendo constantemente, a la par de ir trabajando; actualmente estoy aprendiendo Paython para el back-end y React para el front-end.
+Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualmente sigo aprendiendo Paython para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y he comenzado a aprender React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev).
 
 Habilidades: 
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,10 +42,10 @@ Habilidades:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoroPm)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoroPm)](https://github.com/anuraghazra/github-readme-stats)
+[![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=MoroPm)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoroPm&show_icons=true)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MoroPm&show_icons=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MoroPm)  
+![Estadísticas de racha de GitHub](https://streak-stats.demolab.com/?user=MoroPm)  
 
