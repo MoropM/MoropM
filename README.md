@@ -18,7 +18,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
 ### Hola 👋, mi nombre es Moroni Pérez Méndez
-Soy Ingeniero de software con 5 años de experiencia laboralmente, actualmente trabajando como desarrollador full stack y líder de proyectos.Me considero una persona alegre, seria y centrada el las tareas asignadas, proactivo y obsecivo en la resolución de problemas.
+Soy Ingeniero de software con 5 años de experiencia laboralmente, actualmente trabajando como desarrollador full stack y líder de proyectos. Me considero una persona alegre, seria y centrada el las tareas asignadas, proactivo y obsecivo en la resolución de problemas.
 Las tecnologías y herramientas con las que actualmente estoy trabajando son: Laravel, Joomla, PHP, Javascript, HTML5, CSS3, MySQL, windows, Linux y administración de VPS con Nginx.
 
 Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualmente sigo aprendiendo Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y he comenzado a aprender React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev).
