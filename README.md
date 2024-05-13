@@ -23,7 +23,7 @@ Las tecnologías y herramientas con las que actualmente estoy trabajando son: La
 
 Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualmente sigo aprendiendo Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y he comenzado a aprender React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev).
 
-![Curriculum](https://moroni-profoliojson.pages.dev/)
+[Curriculum](https://moroni-profoliojson.pages.dev/)
 
 #### Habilidades: 
 
