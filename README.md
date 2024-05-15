@@ -32,8 +32,10 @@ Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualme
 
 
 #### Redes sociales
-<div style="color:white;" >
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoroPm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moroni-p-876b22122/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Moroni_pM)  
+<div style="background-color:white;" >
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoroPm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moroni-p-876b22122/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Moroni_pM)
+
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoroPm)](https://github.com/ryo-ma/github-profile-trophy)
