@@ -25,7 +25,6 @@ Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualme
 
 
 <a href="https://moronipm-curriculum.pages.dev/" target="_blank" >Currículum</a>
-[Portafolio minimalista JSON](https://moroni-profoliojson.pages.dev/)
 
 
 #### Habilidades  
