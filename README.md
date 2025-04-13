@@ -17,11 +17,14 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
 ### Hola 👋, mi nombre es Moroni Pérez Méndez
-Soy Ingeniero de software con 5 años de experiencia laboral en el sector, actualmente trabajando como desarrollador full stack en una startup. Me considero una persona alegre, sociable y enfocada en las tareas asignadas, proactivo y perfeccionista en la resolución de problemas.
+Soy Ingeniero de software con 5 años de experiencia laboral en el sector, actualmente trabajando como desarrollador full stack. Me considero una persona alegre, sociable y enfocada en las tareas asignadas, proactivo y perfeccionista en la resolución de problemas.
 Las tecnologías y herramientas con las que actualmente estoy trabajando son: Laravel, Joomla, PHP, Javascript, HTML5, CSS3, MySQL, windows, Linux y administración de VPS con Nginx. También integración de pasarelas de pago como: Conekta, Stripe, Paypal, Mercado Pago y OpenPay
 
 Me encanta seguir aprendiendo constantemente a la par de ir trabajando; actualmente comienzo a aprender Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev).
 
+
+#### Revisa mi portafolio:
+<a href="https://moroniperezm.com/" target="_blank" >Portafolio</a>
 
 #### Revisa mi currículum:
 <a href="https://cv.moroniperezm.com/" target="_blank" >Currículum</a>
