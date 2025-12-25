@@ -4,11 +4,12 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## Hola 👋, mi nombre es Moroni Pérez Méndez
 
-Soy ingeniero con más de 5 años de experiencia laboral en el sector, donde recientemente trabajé como desarrollador full stack en una startup. Creando soluciones a la medida, he liderado el desarrollo de algunos proyectos, implementado pasarelas de pago y administrando servicios cloud, donde utilicé las sifueintes tecnologías y herramientas: Framework Laravel, Joomla, PHP, Javascript, HTML5, CSS3, MySQL, windows, Linux y administración de VPS con Nginx; integración de: Conekta, Stripe, Paypal, Mercado Pago y OpenPay
+Soy ingeniero con más de 5 años de experiencia laboral en el sector, trabajando actualmente como _Líder de proyecto_ en [Grupo Xcaret](https://xcaret.com/). He creado soluciones a la medida, liderado el desarrollo de algunos proyectos, implementado pasarelas de pago y administrando servicios cloud, donde utilicé las sufueintes tecnologías y herramientas: Framework Laravel, Joomla, PHP, Javascript, HTML5, CSS3, MySQL, windows, Linux y administración de VPS con Nginx; integración de: Conekta, Stripe, Paypal, Mercado Pago y OpenPay
 
 Me considero una persona alegre, sociable y enfocada en las tareas asignadas, proactivo y perfeccionista en la resolución de problemas.
 
-Me encuentro en constante aprendizaje ya sea de manera visual, auditiva o social mediante la lectura; actualmente comienzo a aprender Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev).
+Me encuentro en constante aprendizaje ya sea de manera visual, auditiva o social mediante la lectura; actualmente sigo reforzando mi aprendizaje de Laravel como framework de PHP y en algunas metodologías como SCRUM y PMI.
+<!-- actualmente comienzo a aprender Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev). -->
 
 
 Revisa mi
