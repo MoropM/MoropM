@@ -4,16 +4,17 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## Hola 👋, mi nombre es Moroni Pérez Méndez
 
-Soy ingeniero con más de 5 años de experiencia laboral en el sector, trabajando actualmente como _Líder de proyecto_ en [Grupo Xcaret](https://xcaret.com/). He creado soluciones a la medida, liderado el desarrollo de algunos proyectos, implementado pasarelas de pago y administrando servicios cloud, donde utilicé las sufueintes tecnologías y herramientas: Framework Laravel, Joomla, PHP, Javascript, HTML5, CSS3, MySQL, windows, Linux y administración de VPS con Nginx; integración de: Conekta, Stripe, Paypal, Mercado Pago y OpenPay
+Soy Ingeniero en Sistemas con +5 años de experiencia en la industria tecnológica. Actualmente me desempeño como _Administrador de proyectos_ en [Grupo Xcaret](https://xcaret.com/), coordinando iniciativas clave y asegurando la entrega eficiente de soluciones digitales.
 
-Me considero una persona alegre, sociable y enfocada en las tareas asignadas, proactivo y perfeccionista en la resolución de problemas.
+Mi trayectoria previa como desarrollador Full Stack en startups me otorga una sólida visión técnica, respaldada por **experiencia en el liderazgo de proyectos, integración de pasarelas de pago y administración de infraestructura cloud**.
 
-Me encuentro en constante aprendizaje ya sea de manera visual, auditiva o social mediante la lectura; actualmente sigo reforzando mi aprendizaje de Laravel como framework de PHP y en algunas metodologías como SCRUM y PMI.
+Me distingo por ser una persona **proactiva**, **analítica** y **orientada a resultados**, con **alta capacidad para la resolución de problemas** y la **colaboración en equipo**. Mantengo un compromiso constante con el aprendizaje continuo, reforzando metodologías de gestión como _Agile/SCRUM_ y marcos de trabajo como PMI, combinados con una actualización técnica constante.
+
 <!-- actualmente comienzo a aprender Python para el back-end de la mano de [@mouredev](https://www.github.com/mouredev) y React para el front-end con [@Fernando_Her85](https://twitter.com/Fernando_Her85) y [@midudev](https://www.github.com/midudev). -->
 
 
 Revisa mi
-<a href="https://moroniperezm.com/" target="_blank" >portafolio</a> o mi <a href="https://cv.moroniperezm.com/" target="_blank" >currículum</a>
+<a href="https://www.moroniperezm.com/" target="_blank" >portafolio</a> o mi <a href="https://cv.moroniperezm.com/" target="_blank" >currículum</a>
 
 #### Habilidades  
 
